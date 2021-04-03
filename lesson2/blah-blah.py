@@ -1,5 +1,6 @@
 a = float(input())
 
+
 if a < 5:
     print("không đạt yêu cầu")
 elif a >=5 and a < 7:
